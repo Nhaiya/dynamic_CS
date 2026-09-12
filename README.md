@@ -1,4 +1,4 @@
-# Dynamic Contrast Subgraphs for Brain Network Classification
+# Brain Network Analysis Using Graph Mining
 
 Extends the static contrast subgraph method (Lanciano et al., 2020) to dynamic
 brain networks with two variants: Temporal and Multi-Objective.
