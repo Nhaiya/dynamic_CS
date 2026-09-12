@@ -1,6 +1,5 @@
 
 # Brain Network Analysis Using Graph Mining
->>>>>>> 5192c029d1a0d73b90ac0d99c602181a57a582d2
 
 Extends the static contrast subgraph method (Lanciano et al., 2020) to dynamic
 brain networks with two variants: Temporal and Multi-Objective.
@@ -29,4 +28,4 @@ request access at https://sites.wustl.edu/oasisbrains/.
 ## Reference
 
 Lanciano T, Bonchi F, Gionis A. Explainable classification of brain networks via contrast subgraphs. InProceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining 2020 Aug 23 (pp. 3308-3318).
->>>>>>> 5192c029d1a0d73b90ac0d99c602181a57a582d2
+
